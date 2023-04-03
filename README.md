@@ -1,4 +1,4 @@
-# adhd-and-comorbidities
+# self-reported-mental-health
 
 Data analysis using Python
 
